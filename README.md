@@ -138,7 +138,7 @@ Contributions, suggestions, and bug reports are welcome! Feel free to fork the r
 ## 📬 Contact
 - Author: Prath-Digital
 - GitHub: [Prath-Digital](https://github.com/Prath-Digital)
-- Email: [askforvarn@gmail.com](mailto:askforvarn@gmail.com)
+- Email: [askforvarn@gmail.com](https://mail.google.com/mail/u/0/?fs=1&to=askforvarn@gmail.com&su=Topic&body=Hi+Prath%20Digital%0A%0AI+want+to+ask+about+...%0A%0AThanks,%0AYour+Name&tf=cm)
 
 ## 📄 License
 This project is licensed under the MIT License.
